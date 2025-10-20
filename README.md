@@ -1,24 +1,24 @@
-# 🛍️ Amazon Product Review Analysis (DSA Incubator Project)
+# ‎🏥 Hospital Health Data Dashboard Documentation
 
-A detailed Excel-based analytics project on Amazon product reviews, discounts, and pricing. Designed during my time at DSA Incubator, this project uses pivot tables, calculated fields, and dashboards to extract actionable insights on product performance, category trends, customer engagement, and revenue opportunities.
-
-> 🔍 Objective: Analyze Amazon product and review data to derive business insights using pivot tables, calculated columns, and data visualizations.
+This Hospital Health Data Dashboard was created in Microsoft Excel to analyze hospital performance across different years, focusing on patients, treatment types, diagnoses, doctors, and revenue.
+‎
+> 🔍 Objective: ‎The goal was to visualize patient distribution, cost analysis, and key performance indicators (KPIs) such as total patients, revenue, and most common diagnosis.
 
 ---
 
 ## 🏢 Project Context
 
-**Industry:** E-commerce Analytics  
+**Industry:** Health Analytics  
 **Role:** Junior Data Analyst  
-**Tools Used:** Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
+**Tools Used:** Microsoft Excel (Pivot Tables, Slicers, Cards, Charts, Conditional Formatting)
 
 ---
 
 ## 🧾 Dataset Description
 
-- **Total Records:** 1,465
-- **Columns:** 16
-- **Source:** Web-scraped Amazon product review data
+- **Total Records:** 5,000
+- **Columns:** 9
+
 - **Each row represents:** A unique product
 - **Fields included:**
   - Product name
